@@ -19,7 +19,7 @@ The objective of this project was to analyze sales performance, customer behavio
 ## Dashboard Overview
 
 ### Executive Overview
-![Overview](images/overview.png)
+![Overview](images/Overview.png)
 
 ### Product Performance
 ![Product Analysis](images/product_analysis.png)
