@@ -16,17 +16,6 @@ The objective of this project was to analyze sales performance, customer behavio
 - Average Order Value (AOV)
 - Year-to-Date (YTD) Sales
 
-## Dashboard Overview
-
-### Executive Overview
-![Overview](images/Overview.png")
-
-### Product Performance
-![Product Analysis](images/Product_Analysis.png)
-
-### Customer Analysis
-![Customer Analysis](images/Customer_Analysis.png)
-
 ## Key Insights
 - Furniture is the highest-selling category but generates the lowest profit margin.
 - Bookcases sub-category consistently shows negative profitability.
