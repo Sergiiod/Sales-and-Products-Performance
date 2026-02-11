@@ -22,10 +22,10 @@ The objective of this project was to analyze sales performance, customer behavio
 ![Overview](images/Overview.png)
 
 ### Product Performance
-![Product Analysis](images/product_analysis.png)
+![Product Analysis](images/Product_Analysis.png)
 
 ### Customer Analysis
-![Customer Analysis](images/customer_analysis.png)
+![Customer Analysis](images/Customer_Analysis.png)
 
 ## Key Insights
 - Furniture is the highest-selling category but generates the lowest profit margin.
